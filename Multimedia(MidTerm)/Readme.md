@@ -1,0 +1,1 @@
+The following displays self-service order kiosks such as those owned by existing fast-food restaurants. This design is intended for multimedia mid-semester exams. With a drugstore theme
